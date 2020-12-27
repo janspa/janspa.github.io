@@ -1,3 +1,6 @@
 # janspa.github.io
+Jani Vikman
 
-[React Photo Browser](/react-photobrowser).
+## Example projects
+
+[React Photo Browser](/react-photobrowser)
